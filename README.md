@@ -69,3 +69,9 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 
 - **Integrasi Data:**
     - Menggabungkan data yang mungkin terpisah (jika ada dataset tambahan).  
+
+<h1> Exploratory data analysis (EDA) </h1>
+
+Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
+
+![Penjualan Harian](image_visual/Penjualan_Harian.png)
