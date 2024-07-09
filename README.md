@@ -74,4 +74,26 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 
 Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
 
+- Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi
+
 ![Penjualan Harian](image_visual/Penjualan_Harian.png)
+
+    1. Hari dengan Penjualan Tertinggi
+    
+        - Penjualan tertinggi terjadi pada hari Selasa dengan nilai penjualan sebesar 1.664.000.
+        - Penjualan pada hari Senin juga cukup tinggi, berada di posisi kedua dengan nilai 1.536.000.
+    
+    2. Hari dengan Penjualan Terendah
+    
+        - Penjualan terendah terjadi pada hari Kamis dengan nilai penjualan sebesar 990.000.
+    
+    3. Tren Penjualan Harian
+    
+        - Ada peningkatan yang signifikan pada nilai penjualan dari Jumat ke Senin, dengan lonjakan yang signifikan pada hari Senin.
+        - Setelah mencapai puncak pada hari Senin, penjualan turun pada hari Sabtu dan terus menurun hingga mencapai titik terendah pada hari Kamis.
+        - Penjualan kembali meningkat tajam pada hari Selasa, kemudian menurun kembali pada hari Rabu.
+    
+    4. Polarisasi Penjualan
+    
+        - Hari-hari dengan penjualan tertinggi (Senin dan Selasa) tampak menonjol dibandingkan hari-hari lainnya, menunjukkan kemungkinan adanya faktor khusus pada hari-hari tersebut yang mendorong peningkatan penjualan, seperti promosi atau kebiasaan konsumen.
+        - Sebaliknya, hari Kamis menunjukkan penurunan yang signifikan, yang mungkin memerlukan analisis lebih lanjut untuk memahami penyebab penjualan rendah.
