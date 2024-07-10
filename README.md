@@ -74,7 +74,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 
 Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
 
-- **Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi**
+### Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi**
 
 #### Penjualan Harian
 
@@ -118,7 +118,9 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
     
     - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
 
-- **Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu.**
+### Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu
+
+#### Visualisasi 10 Produk yang Paling Sering Dibeli
 
 ![10 Produk yang Paling Sering Dibeli](image_visual/10_Produk_Sering_Dibeli.png)
 
@@ -127,6 +129,8 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
 3. Di peringkat ketiga terdapat Indomie Rasa Empal Gentong dengan total pembelian sebanyak 64 bungkus. Meskipun berada di bawah kedua produk sebelumnya, jumlah penjualannya tetap signifikan dan menunjukkan popularitas yang tinggi.
 4. Beberapa produk seperti Indomie Rasa Soto Padang, Indomie Rasa Mi Kocok Bandung, dan Indomie Goreng Pedas menunjukkan stabilitas dalam penjualan, dengan masing-masing mencapai sekitar 54 bungkus terjual. Stabilitas ini mencerminkan adanya permintaan yang konsisten dari konsumen untuk produk-produk tersebut.
 5. Meskipun terdapat perbedaan jumlah penjualan yang cukup signifikan antara produk yang paling laris dengan produk lainnya dalam daftar Top 10, semua produk ini menunjukkan popularitas mereka di pasar Indomie. Hal ini mengindikasikan bahwa setiap produk memiliki basis pelanggan yang setia dan permintaan yang solid.
+
+#### Visualisasi Perubahan Permintaan Produk dari Waktu ke Waktu
 
 ![Perubahan Permintaan Produk dari Waktu ke Waktu](image_visual/Perubahan_permintaan_waktu.png)
 
