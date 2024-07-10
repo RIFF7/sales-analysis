@@ -74,7 +74,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 
 Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
 
-### 1. Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi**
+### 1. Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi
 
 #### Penjualan Harian
 
