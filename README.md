@@ -80,40 +80,40 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
 
 ![Penjualan Harian](image_visual/Penjualan_Harian.png)
 
-    1. Hari dengan Penjualan Tertinggi
+1. Hari dengan Penjualan Tertinggi
     
-        - Penjualan tertinggi terjadi pada hari Selasa dengan nilai penjualan sebesar Rp 1.664.000.
-        - Penjualan pada hari Senin juga cukup tinggi, berada di posisi kedua dengan nilai Rp 1.536.000.
+    - Penjualan tertinggi terjadi pada hari Selasa dengan nilai penjualan sebesar Rp 1.664.000.
+    - Penjualan pada hari Senin juga cukup tinggi, berada di posisi kedua dengan nilai Rp 1.536.000.
     
-    2. Hari dengan Penjualan Terendah
+2. Hari dengan Penjualan Terendah
     
-        - Penjualan terendah terjadi pada hari Kamis dengan nilai penjualan sebesar Rp 990.000.
+    - Penjualan terendah terjadi pada hari Kamis dengan nilai penjualan sebesar Rp 990.000.
     
-    3. Tren Penjualan Harian
+3. Tren Penjualan Harian
     
-        - Ada peningkatan yang signifikan pada nilai penjualan dari Jumat ke Senin, dengan lonjakan yang signifikan pada hari Senin.
-        - Setelah mencapai puncak pada hari Senin, penjualan turun pada hari Sabtu dan terus menurun hingga mencapai titik terendah pada hari Kamis.
-        - Penjualan kembali meningkat tajam pada hari Selasa, kemudian menurun kembali pada hari Rabu.
+    - Ada peningkatan yang signifikan pada nilai penjualan dari Jumat ke Senin, dengan lonjakan yang signifikan pada hari Senin.
+    - Setelah mencapai puncak pada hari Senin, penjualan turun pada hari Sabtu dan terus menurun hingga mencapai titik terendah pada hari Kamis.
+    - Penjualan kembali meningkat tajam pada hari Selasa, kemudian menurun kembali pada hari Rabu.
     
-    4. Polarisasi Penjualan
+4. Polarisasi Penjualan
     
-        - Hari-hari dengan penjualan tertinggi (Senin dan Selasa) tampak menonjol dibandingkan hari-hari lainnya, menunjukkan kemungkinan adanya faktor khusus pada hari-hari tersebut yang mendorong peningkatan penjualan, seperti promosi atau kebiasaan konsumen.
-        - Sebaliknya, hari Kamis menunjukkan penurunan yang signifikan, yang mungkin memerlukan analisis lebih lanjut untuk memahami penyebab penjualan rendah.
+    - Hari-hari dengan penjualan tertinggi (Senin dan Selasa) tampak menonjol dibandingkan hari-hari lainnya, menunjukkan kemungkinan adanya faktor khusus pada hari-hari tersebut yang mendorong peningkatan penjualan, seperti promosi atau kebiasaan konsumen.
+    - Sebaliknya, hari Kamis menunjukkan penurunan yang signifikan, yang mungkin memerlukan analisis lebih lanjut untuk memahami penyebab penjualan rendah.
 
 #### Penjualan Bulanan
 
 ![Penjualan Bulanan](image_visual/Penjualan_Bulanan.png)
 
-    1. Fluktuasi Penjualan Bulanan
+1. Fluktuasi Penjualan Bulanan
     
-        - Penjualan mengalami fluktuasi signifikan dari bulan ke bulan. Dari Januari ke Februari, terjadi peningkatan penjualan dari Rp 1.072.000 menjadi Rp 1.187.000.
-        - Penjualan kemudian menurun pada bulan Maret menjadi Rp 1.051.000 dan terus menurun hingga mencapai titik terendah pada bulan April dengan nilai penjualan sebesar Rp 899.000.
+    - Penjualan mengalami fluktuasi signifikan dari bulan ke bulan. Dari Januari ke Februari, terjadi peningkatan penjualan dari Rp 1.072.000 menjadi Rp 1.187.000.
+    - Penjualan kemudian menurun pada bulan Maret menjadi Rp 1.051.000 dan terus menurun hingga mencapai titik terendah pada bulan April dengan nilai penjualan sebesar Rp 899.000.
     
-    2. Pemulihan dan Puncak Penjualan
+2. Pemulihan dan Puncak Penjualan
     
-        - Setelah penurunan drastis pada bulan April, terjadi pemulihan signifikan pada bulan Mei dengan nilai penjualan mencapai Rp 1.346.000, menunjukkan adanya upaya yang berhasil dalam meningkatkan penjualan.
-        - Puncak penjualan terjadi pada bulan Juli dengan nominal transaksi tertinggi sebesar Rp 1.446.000, menandakan bulan dengan performa terbaik sepanjang tahun ini.
+    - Setelah penurunan drastis pada bulan April, terjadi pemulihan signifikan pada bulan Mei dengan nilai penjualan mencapai Rp 1.346.000, menunjukkan adanya upaya yang berhasil dalam meningkatkan penjualan.
+    - Puncak penjualan terjadi pada bulan Juli dengan nominal transaksi tertinggi sebesar Rp 1.446.000, menandakan bulan dengan performa terbaik sepanjang tahun ini.
     
-    3. Penurunan Pasca-Puncak
+3. Penurunan Pasca-Puncak
     
-        - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
+    - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
