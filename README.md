@@ -118,6 +118,8 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
     
     - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
 
+- **Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu.**
+
 ![10 Produk yang Paling Sering Dibeli](image_visual/10_Produk_Sering_Dibeli.png)
 
 1. Indomie Rasa Soto Betawi menjadi produk paling populer dengan penjualan mencapai 80 bungkus. Produk ini menempati peringkat pertama dalam daftar Top 10 produk yang paling sering dibeli.
