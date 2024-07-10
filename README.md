@@ -74,7 +74,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 
 Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
 
-### Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi**
+### 1. Menganalisis kapan (hari dan bulan) transaksi terjadi untuk mengetahui periode tanggal dan bulan dengan penjualan tertinggi**
 
 #### Penjualan Harian
 
@@ -118,7 +118,7 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
     
     - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
 
-### Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu
+### 2. Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu
 
 #### Visualisasi 10 Produk yang Paling Sering Dibeli
 
