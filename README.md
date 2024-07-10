@@ -1,10 +1,10 @@
-<h1> Business Understanding </h1>
+# Business Understanding
 
-<h2> Latar Belakang </h2>
+## Latar Belakang
 
 Warmindo, kependekan dari Warung Makan Indomie, adalah salah satu jenis usaha kuliner yang sangat populer di Indonesia. Warung ini menawarkan berbagai macam produk berbasis mi instan dan menu sederhana lainnya yang digemari oleh berbagai kalangan. Untuk memahami dan mengoptimalkan operasional bisnis, penting bagi Warmindo untuk menganalisis data transaksi yang terjadi di warung mereka.
 
-<h3> Tujuan Analisis </h3>
+### Tujuan Analisis
 
 Analisis data transaksi dari dataset data_warmindo.csv memiliki beberapa tujuan utama:
 
@@ -26,7 +26,7 @@ Analisis data transaksi dari dataset data_warmindo.csv memiliki beberapa tujuan 
     - Menganalisis efektivitas berbagai jenis promosi dan diskon yang diberikan kepada pelanggan.
     - Mengidentifikasi metode pembayaran mana yang paling sering digunakan oleh pelanggan dan apakah ada pengaruhnya terhadap nilai penjualan.
 
-<h3> Hasil yang Diharapkan </h3>
+### Hasil yang Diharapkan
 
 Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil keputusan bisnis yang lebih baik berdasarkan wawasan yang diperoleh. Hasil analisis diharapkan dapat membantu dalam:
 
@@ -34,7 +34,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 - Memperbaiki manajemen inventaris dan rantai pasokan.
 - Meningkatkan kepuasan dan loyalitas pelanggan melalui layanan yang lebih baik dan penawaran yang disesuaikan dengan kebutuhan pelanggan.
 
-<h1> Data Understanding </h1>
+# Data Understanding
 
 - **Koleksi Data:** Dataset data_warmindo.csv dengan 499 rows dengan kolom id, invoice_id, tanggal_transaksi, customer_id, nama_produk, jenis_produk, kategori_produk, quantity, harga_jual, jenis_pembayaran, jenis_pesanan, nilai_penjualan. Dari masing-masing kolom ini memiliki penjelasan sebagai berikut:
 
@@ -56,7 +56,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
     - Mengamati pola temporal dari tanggal_transaksi.
     - Menggali hubungan antara nama_produk, jenis_produk, dan kategori_produk dengan nilai_penjualan.
 
-<h1> Data Preparation </h1>
+# Data Preparation
 
 - **Pembersihan Data:**
     - Mengisi atau menghapus data yang hilang.
@@ -70,7 +70,7 @@ Dengan melakukan analisis mendalam terhadap data ini, Warmindo dapat mengambil k
 - **Integrasi Data:**
     - Menggabungkan data yang mungkin terpisah (jika ada dataset tambahan).  
 
-<h1> Exploratory data analysis (EDA) </h1>
+# Exploratory Data Analysis (EDA)
 
 Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Understanding, berdasarkan pada data yang sudah dilakukan pengecekan dan proses cleaning pada tahap sebelumnya.
 
