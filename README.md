@@ -118,6 +118,8 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
     
     - Setelah mencapai puncak pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan nilai transaksi sebesar Rp 982.000, namun penurunan ini tidak seburuk penurunan yang terjadi pada bulan April.
 
+- - -
+
 ### 2. Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu
 
 #### Visualisasi 10 Produk yang Paling Sering Dibeli
@@ -136,14 +138,14 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
 
 1. Indomie Kari Ayam
 
-    - Peningkatan Tajam: Pada bulan April 2022, penjualan Indomie Kari Ayam hanya mencapai 2 bungkus. Namun, pada bulan Mei 2022, penjualan melonjak tajam hingga mencapai 14 bungkus. Lonjakan ini menandakan adanya peningkatan permintaan yang signifikan dalam waktu satu bulan.
+    - **Peningkatan Tajam:** Pada bulan April 2022, penjualan Indomie Kari Ayam hanya mencapai 2 bungkus. Namun, pada bulan Mei 2022, penjualan melonjak tajam hingga mencapai 14 bungkus. Lonjakan ini menandakan adanya peningkatan permintaan yang signifikan dalam waktu satu bulan.
 
 2. Indomie Rasa Mi Kocok Bandung
 
-    - Fluktuasi Penjualan: Produk ini menunjukkan peningkatan permintaan pada bulan Maret dan Juli 2022. Pada bulan Februari, penjualan hanya mencapai 7 bungkus, namun meningkat menjadi 9 bungkus pada bulan Maret dan mencapai 11 bungkus pada bulan Juli.
-    - Penurunan Setelah Peningkatan: Setelah mencapai puncaknya pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan total penjualan sebanyak 5 bungkus. Hal ini menunjukkan adanya fluktuasi dalam permintaan untuk produk ini.
+    - **Fluktuasi Penjualan:** Produk ini menunjukkan peningkatan permintaan pada bulan Maret dan Juli 2022. Pada bulan Februari, penjualan hanya mencapai 7 bungkus, namun meningkat menjadi 9 bungkus pada bulan Maret dan mencapai 11 bungkus pada bulan Juli.
+    - **Penurunan Setelah Peningkatan:** Setelah mencapai puncaknya pada bulan Juli, penjualan kembali menurun pada bulan Agustus dengan total penjualan sebanyak 5 bungkus. Hal ini menunjukkan adanya fluktuasi dalam permintaan untuk produk ini.
 
 3. Indomie Goreng Pedas
 
-    - Penurunan Awal dan Pemulihan: Pada bulan Januari 2022, penjualan Indomie Goreng Pedas mencapai 7 bungkus. Namun, penjualan menurun secara bertahap hingga hanya mencapai 3 bungkus pada bulan Maret 2022.
-    - Peningkatan Kembali: Pada bulan Agustus 2022, penjualan produk ini meningkat signifikan hingga mencapai 11 bungkus. Ini menunjukkan adanya pemulihan permintaan setelah periode penurunan.
+    - **Penurunan Awal dan Pemulihan:** Pada bulan Januari 2022, penjualan Indomie Goreng Pedas mencapai 7 bungkus. Namun, penjualan menurun secara bertahap hingga hanya mencapai 3 bungkus pada bulan Maret 2022.
+    - **Peningkatan Kembali:** Pada bulan Agustus 2022, penjualan produk ini meningkat signifikan hingga mencapai 11 bungkus. Ini menunjukkan adanya pemulihan permintaan setelah periode penurunan.
