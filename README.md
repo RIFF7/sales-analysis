@@ -149,3 +149,47 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
 
     - **Penurunan Awal dan Pemulihan:** Pada bulan Januari 2022, penjualan Indomie Goreng Pedas mencapai 7 bungkus. Namun, penjualan menurun secara bertahap hingga hanya mencapai 3 bungkus pada bulan Maret 2022.
     - **Peningkatan Kembali:** Pada bulan Agustus 2022, penjualan produk ini meningkat signifikan hingga mencapai 11 bungkus. Ini menunjukkan adanya pemulihan permintaan setelah periode penurunan.
+
+- - -
+
+### 3. Siapa pelanggan setia dan bagaimana kita bisa meningkatkan loyalitas mereka?
+
+#### Visualisasi 10 Produk yang Paling Sering Dibeli oleh Pelanggan Setia
+
+![Paling Sering Dibeli oleh Pelanggan Setia](image_visual/10_Produk_Pelanggan_Setia.png)
+
+1. Produk Teratas dan Preferensi Pelanggan
+
+    - Indomie Rasa Soto Banjar Limau Kuit adalah produk paling populer dengan jumlah pembelian lebih dari 25 kali. Ini menunjukkan bahwa produk ini memiliki daya tarik yang sangat tinggi di antara pelanggan setia.
+    - Produk lain yang juga populer termasuk Indomie Goreng Spesial dan Indomie Kari Ayam, masing-masing dengan sekitar 20 kali pembelian. Popularitas ini menunjukkan bahwa pelanggan setia menyukai variasi rasa yang berbeda.
+
+2. Keragaman Rasa
+
+    - Pelanggan setia tertarik pada berbagai rasa yang ditawarkan oleh Warmindo, seperti soto, kari, baso sapi, dan goreng pedas. Ini menunjukkan pentingnya menyediakan berbagai macam rasa untuk memenuhi selera pelanggan yang beragam.
+    - Produk dengan variasi rasa seperti Indomie Rasa Soto Lamongan dan Indomie Rasa Soto Betawi juga menunjukkan jumlah pembelian yang signifikan, meskipun sedikit lebih rendah dibandingkan produk teratas.
+
+3. Produk dengan Penjualan Lebih Rendah
+
+    - Produk seperti Indomie Goreng Rasa Empal Gentong, Indomie Ayam Bawang, dan Indomie Goreng Pedas termasuk dalam 10 produk teratas, tetapi memiliki jumlah pembelian yang lebih rendah dibandingkan produk lainnya. Ini menunjukkan bahwa meskipun populer, ada ruang untuk peningkatan penjualan untuk produk-produk ini.
+
+4. Strategi Pemasaran dan Penjualan
+
+    - Dengan pemahaman ini, Warmindo dapat menyusun strategi pemasaran yang lebih efektif dengan fokus pada produk-produk yang paling populer untuk memaksimalkan penjualan.
+    - Menawarkan promosi khusus atau paket bundling untuk produk dengan penjualan lebih rendah dapat membantu meningkatkan daya tarik produk tersebut.
+    - Terus memantau tren pembelian dan menyesuaikan strategi bisnis sesuai dengan kebutuhan dan preferensi pelanggan setia.
+
+5. Peluang Pengembangan Produk
+
+    - Analisis ini menunjukkan bahwa pelanggan setia cenderung menyukai berbagai macam rasa. Warmindo dapat mempertimbangkan untuk memperkenalkan varian rasa baru atau edisi terbatas untuk menarik minat lebih lanjut dari pelanggan.
+  
+#### Visualisasi Jumlah Transaksi oleh Pelanggan Setia per Bulan
+
+![Jumlah Transaksi oleh Pelanggan Setia per Bulan](image_visual/jml_transaksi_perBUlan_pelSetia.png)
+
+1. Januari memulai tahun dengan stabil, mencatat 34 transaksi. Ini menunjukkan bahwa pelanggan setia kembali ke kebiasaan makan mereka setelah liburan akhir tahun.
+2. Februari menunjukkan peningkatan signifikan dengan 41 transaksi, mencerminkan adanya peningkatan aktivitas pelanggan setia.
+3. Maret dan April menunjukkan penurunan drastis dalam jumlah transaksi, turun menjadi 30 transaksi di Maret dan mencapai titik terendah di April dengan hanya 26 transaksi. Penurunan ini mungkin disebabkan oleh faktor eksternal seperti cuaca buruk atau pelanggan mencoba tempat makan baru.
+4. Mei dan Juni menunjukkan pemulihan yang signifikan, dengan transaksi naik kembali ke puncak kedua. Pada bulan Juni, jumlah transaksi mencapai 42, kemungkinan berkat kampanye pemasaran yang berhasil atau acara spesial yang diselenggarakan Warmindo.
+5. Juli dan Agustus menunjukkan penurunan bertahap setelah kenaikan di Juni. Juli mencatat 38 transaksi, dan angka ini terus menurun hingga mencapai 26 transaksi di Agustus. Ini menunjukkan adanya tantangan dalam mempertahankan loyalitas pelanggan meskipun ada peningkatan di pertengahan tahun.
+
+Data ini memberikan wawasan penting bagi Warmindo untuk merencanakan strategi pemasaran yang lebih efektif. Mengidentifikasi faktor-faktor yang menyebabkan peningkatan di bulan-bulan tertentu dapat membantu dalam merancang kampanye pemasaran yang lebih sukses. Memahami penyebab penurunan di bulan Maret, April, Juli, dan Agustus dapat membantu Warmindo dalam mengatasi tantangan dan merancang strategi untuk mempertahankan loyalitas pelanggan.
