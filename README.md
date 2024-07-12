@@ -12,7 +12,7 @@ Analisis data transaksi dari dataset data_warmindo.csv memiliki beberapa tujuan 
     - Menganalisis kapan (tanggal dan waktu) transaksi terjadi untuk mengetahui jam sibuk dan periode waktu dengan penjualan tertinggi.
     - Melihat produk apa yang paling sering dibeli dan bagaimana permintaan produk berubah dari waktu ke waktu.
     - Siapa pelanggan setia dan bagaimana kita bisa meningkatkan loyalitas mereka?
-    - Bagaimana efektivitas promosi dan diskon?
+    - Bagaimana harga jual rata-rata mempengaruhi jumlah penjualan dan total pendapatan?
 
 2. Segmentasi Pelanggan
     - Mengelompokkan pelanggan berdasarkan pola pembelian mereka, seperti frekuensi pembelian, jenis produk yang dibeli, dan nilai penjualan.
