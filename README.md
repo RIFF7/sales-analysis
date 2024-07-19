@@ -193,3 +193,45 @@ Pada tahapan analisa ini akan menjawab pertanyaan yang ada pada Business Underst
 5. Juli dan Agustus menunjukkan penurunan bertahap setelah kenaikan di Juni. Juli mencatat 38 transaksi, dan angka ini terus menurun hingga mencapai 26 transaksi di Agustus. Ini menunjukkan adanya tantangan dalam mempertahankan loyalitas pelanggan meskipun ada peningkatan di pertengahan tahun.
 
 Data ini memberikan wawasan penting bagi Warmindo untuk merencanakan strategi pemasaran yang lebih efektif. Mengidentifikasi faktor-faktor yang menyebabkan peningkatan di bulan-bulan tertentu dapat membantu dalam merancang kampanye pemasaran yang lebih sukses. Memahami penyebab penurunan di bulan Maret, April, Juli, dan Agustus dapat membantu Warmindo dalam mengatasi tantangan dan merancang strategi untuk mempertahankan loyalitas pelanggan.
+
+- - -
+
+### 4. Bagaimana harga jual rata-rata mempengaruhi jumlah penjualan dan total pendapatan?
+
+#### Hubungan antara Harga Jual Rata-Rata dan Jumlah Penjualan
+
+- Nilai korelasi sebesar 0.5036568368699947 menunjukkan adanya hubungan positif yang moderat antara harga jual rata-rata dan jumlah penjualan. Ini berarti ketika harga jual rata-rata meningkat, jumlah penjualan cenderung juga meningkat.
+
+- Hubungan ini tidak sangat kuat, menunjukkan bahwa ada faktor lain yang juga berperan dalam menentukan jumlah penjualan, seperti kualitas produk, preferensi pelanggan, dan efektivitas promosi.
+
+- Peningkatan harga jual tidak selalu menyebabkan penurunan jumlah penjualan yang signifikan, menandakan bahwa pelanggan mungkin masih membeli dalam jumlah yang cukup besar meskipun ada kenaikan harga, terutama jika produk dianggap bernilai tinggi atau memiliki kualitas yang baik.
+
+#### Hubungan antara Harga Jual Rata-Rata dan Total Pendapatan
+
+- Nilai korelasi sebesar 0.6545660872166422 menunjukkan adanya hubungan positif yang cukup kuat antara harga jual rata-rata dan total pendapatan. Ini berarti bahwa peningkatan harga jual rata-rata cenderung diikuti oleh peningkatan total pendapatan.
+
+- Hubungan ini lebih kuat dibandingkan dengan hubungan antara harga jual rata-rata dan jumlah penjualan, menunjukkan bahwa strategi penetapan harga yang lebih tinggi dapat secara efektif meningkatkan total pendapatan.
+
+#### Harga Jual Rata-rata vs Jumlah Penjualan
+
+##### Variasi Jumlah Penjualan
+
+- Data menunjukkan bahwa jumlah penjualan bervariasi dalam rentang yang cukup luas meskipun harga jual rata-rata cenderung naik.
+- Tidak ada tren yang sangat jelas, tetapi ada kecenderungan bahwa pada harga jual rata-rata yang lebih tinggi, jumlah penjualan tetap tinggi.
+
+##### Rentang Distribusi Data
+
+- Sebagian besar data terdistribusi di rentang harga jual rata-rata sekitar 9000 hingga 10000.
+- Jumlah penjualan berkisar dari sekitar 40 hingga lebih dari 80 dalam rentang harga jual tersebut.
+
+#### Harga Jual Rata-rata vs Total Pendapatan
+
+##### Peningkatan Total Pendapatan
+
+- Titik-titik data menunjukkan bahwa total pendapatan cenderung meningkat seiring dengan meningkatnya harga jual rata-rata.
+- Hubungan ini lebih jelas dan lebih kuat dibandingkan dengan hubungan antara harga jual rata-rata dan jumlah penjualan.
+
+##### Rentang Distribusi Data
+
+- Total pendapatan berkisar dari sekitar Rp 400,000 hingga Rp 800,000.
+- Sebagian besar data terdistribusi di rentang harga jual rata-rata yang sama, sekitar 9000 hingga 10000.
