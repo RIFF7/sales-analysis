@@ -212,7 +212,7 @@ Data ini memberikan wawasan penting bagi Warmindo untuk merencanakan strategi pe
 
 - Hubungan ini lebih kuat dibandingkan dengan hubungan antara harga jual rata-rata dan jumlah penjualan, menunjukkan bahwa strategi penetapan harga yang lebih tinggi dapat secara efektif meningkatkan total pendapatan.
 
-![Pengelompokkan kolom analisa](image_visual/Pengelompokkan_kolom_untuk_Analisa.png)
+![Pengelompokkan kolom analisa](image_visual/pengelompokkan_kolom_analisa.png)
 
 #### Harga Jual Rata-rata vs Jumlah Penjualan
 
