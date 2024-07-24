@@ -235,3 +235,9 @@ Data ini memberikan wawasan penting bagi Warmindo untuk merencanakan strategi pe
 
 - Total pendapatan berkisar dari sekitar Rp 400,000 hingga Rp 800,000.
 - Sebagian besar data terdistribusi di rentang harga jual rata-rata yang sama, sekitar 9000 hingga 10000.
+
+- - -
+
+# Pembahasan Poin Selanjutnya
+
+Untuk hasil analisa mengenai **Segmentasi Pelanggan**, **Optimasi Stok dan Inventaris**, **Evaluasi Promosi dan Diskon** serta pembahasan **Hasil yang Diharapkan**, akan saya kumpulkan menjadi beberapa artikel yang akan saya upload pada Medium yang bisa kalian kunjungi [DISINI](https://medium.com/@syarifudinjaelani).
