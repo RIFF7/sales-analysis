@@ -19,12 +19,12 @@ Analisis data transaksi dari dataset data_warmindo.csv memiliki beberapa tujuan 
     - Mengetahui siapa pelanggan setia dan pelanggan yang jarang berbelanja.
 
 3. Optimasi Stok dan Inventaris
-    - Menggunakan data penjualan untuk memperkirakan kebutuhan stok produk.
-    - Mengurangi risiko kekurangan stok atau overstocking yang dapat mengurangi profitabilitas.
+    - Menggunakan data penjualan untuk memperkirakan kebutuhan stok produk. **[Dalam Tahap Pemahaman]**
+    - Mengurangi risiko kekurangan stok atau overstocking yang dapat mengurangi profitabilitas. **[Dalam Tahap Pemahaman]**
 
 4. Evaluasi Promosi dan Diskon
-    - Menganalisis efektivitas berbagai jenis promosi dan diskon yang diberikan kepada pelanggan.
-    - Mengidentifikasi metode pembayaran mana yang paling sering digunakan oleh pelanggan dan apakah ada pengaruhnya terhadap nilai penjualan.
+    - Menganalisis efektivitas berbagai jenis promosi dan diskon yang diberikan kepada pelanggan. **[Dalam Tahap Pemahaman]**
+    - Mengidentifikasi metode pembayaran mana yang paling sering digunakan oleh pelanggan dan apakah ada pengaruhnya terhadap nilai penjualan. **[Dalam Tahap Pemahaman]**
 
 ### Hasil yang Diharapkan
 
