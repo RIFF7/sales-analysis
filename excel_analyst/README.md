@@ -1,3 +1,5 @@
+# Analisa Warmindo [Menggunakan Excel] 📊🖩
+
 Pada folder ini akan berisi penjelasan dan juga file hasil dari analisa yang sudah dilakukan menggunakan Excel, untuk langkah selanjutnya adalah membersihkan dan merapikan data di Excel agar siap untuk dianalisis, saya menggunakan cara dibawah ini untuk menyelesaikannya:
 
 1. Pemeriksaan Duplikasi
