@@ -50,3 +50,27 @@ Pada folder ini akan berisi penjelasan dan juga file hasil dari analisa yang sud
         - Jika urutan kolom tidak sesuai dengan kebutuhan analisis Anda, atur ulang kolom sesuai dengan alur kerja yang paling nyaman.
 
 Setelah saya menyelesaikan langkah-langkah di atas, dataset akan lebih bersih dan siap untuk dianalisis. Juga kita bisa mulai melakukan eksplorasi data atau analisis lebih lanjut. Jika terdapat langkah yang terlewat ataupun salah dalam penulisan langkah silakan informasikan kembali pada saya 😁
+
+---
+
+## Hasil Analisa KPI
+
+[!Image KPI](KPI.png)
+
+Warung makan sederhana yang akrab disebut "Warmindo." Selama beberapa waktu, Warmindo telah menjadi tempat favorit bagi banyak orang untuk menikmati berbagai hidangan mie instan yang lezat. Dengan pelayanan yang ramah dan suasana yang nyaman, Warmindo tidak hanya menyajikan makanan, tetapi juga menciptakan pengalaman yang tak terlupakan bagi pelanggannya. <br />
+
+Dari sekian banyak transaksi yang tercatat, Warmindo berhasil mengumpulkan total penjualan sebesar **Rp 9.202.000**. Angka ini bukan sekadar jumlah, melainkan cerminan dari kepercayaan dan kepuasan yang diberikan oleh pelanggan. Setiap kali pelanggan datang, mereka tahu bahwa mereka akan mendapatkan rasa yang konsisten dan pelayanan yang cepat, yang membuat mereka kembali lagi dan lagi. <br />
+
+Selama periode ini, Warmindo melayani **499** transaksi. Setiap transaksi adalah bukti bahwa warung ini berhasil mempertahankan aliran pelanggan yang stabil. Mereka datang dari berbagai tempat, entah itu untuk sekadar makan siang cepat atau mengisi waktu bersama teman di sore hari. Dalam setiap transaksi, pelanggan menghabiskan rata-rata **Rp 18.441**. Ini menunjukkan bahwa harga yang ditawarkan oleh Warmindo sesuai dengan nilai yang dirasakan oleh pelanggan—tidak terlalu mahal, namun tetap memberikan kualitas yang baik. <br />
+
+Di antara berbagai menu yang ditawarkan, **Indomie Rasa Soto Betawi** menjadi primadona. Pelanggan tampaknya tidak bisa menolak kelezatan kuah soto yang kaya akan rempah, berpadu sempurna dengan mie yang kenyal. Keberhasilan produk ini mungkin bisa menjadi inspirasi bagi Warmindo untuk mencoba varian menu lain yang serupa atau bahkan meningkatkan promosi untuk produk-produk sejenis. <br />
+
+Dalam hal metode pembayaran, mayoritas pelanggan lebih memilih untuk membayar secara tunai **(CASH)**. Meski di zaman serba digital ini banyak pilihan pembayaran yang tersedia, ternyata pelanggan Warmindo masih lebih nyaman dengan cara yang tradisional. Ini menjadi catatan penting bagi Warmindo, apakah mereka perlu memperkenalkan lebih banyak opsi pembayaran digital, atau justru fokus memberikan pelayanan terbaik untuk transaksi tunai. <br />
+
+Yang menarik, kebanyakan pelanggan lebih memilih untuk makan di tempat **(Dine-In)** daripada memesan untuk dibawa pulang atau diantar. Ini menunjukkan bahwa Warmindo tidak hanya menjadi tempat makan, tetapi juga tempat berkumpul dan bersosialisasi. Pelanggan datang untuk merasakan atmosfer kedai yang hangat dan bersahabat, selain menikmati makanannya 😄. <br />
+
+Dengan semua data ini, Warmindo tidak hanya memahami apa yang disukai oleh pelanggan, tetapi juga bagaimana mereka bisa terus meningkatkan pengalaman yang diberikan. Ini membuktikan bahwa sebuah warung kecil pun bisa menjadi favorit di hati banyak orang 😎. <br />
+
+---
+
+Diatas adalah hasil analisa yang saya buat dengan menerapkan konsep layaknya bercerita, jika terdapat bahasa yang kurang pas silakan infokan pada saya dengan memberikan **Issues** pada repo ini atau bisa juga komen pada postingan LinkedIn saya mengenai pembahasan Excel, Terima kasih dan sampai jumpa pada project selanjutnya 🤗
