@@ -55,7 +55,7 @@ Setelah saya menyelesaikan langkah-langkah di atas, dataset akan lebih bersih da
 
 ## Hasil Analisa KPI
 
-[!Image KPI](KPI.png)
+![Image KPI](KPI.png)
 
 Warung makan sederhana yang akrab disebut "Warmindo." Selama beberapa waktu, Warmindo telah menjadi tempat favorit bagi banyak orang untuk menikmati berbagai hidangan mie instan yang lezat. Dengan pelayanan yang ramah dan suasana yang nyaman, Warmindo tidak hanya menyajikan makanan, tetapi juga menciptakan pengalaman yang tak terlupakan bagi pelanggannya. <br />
 
