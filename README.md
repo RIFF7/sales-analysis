@@ -245,3 +245,6 @@ Untuk hasil analisa mengenai **Segmentasi Pelanggan**, **Optimasi Stok dan Inven
 ## Dashboard Visualisasi
 
 1. [Looker Studio](https://lookerstudio.google.com/reporting/a5cff6cd-2a29-46e6-92e0-0c7167628bf8)
+
+- - -
+
